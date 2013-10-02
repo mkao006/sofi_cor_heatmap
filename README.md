@@ -5,12 +5,12 @@ This is the code repository for creating the correlation heat map presented in S
 ------------------------------------------------------------------------
 
 1. Input
-..* Data: analysis indicator2.sav
+  * Data: analysis indicator2.sav
 
 2. Process
-..* Script: fsiCor.R
+  * Script: fsiCor.R
 
 3. Output
-..* graph: all pdf and eps
-..* dictionary: indicator_dictionary.csv
+  * graph: all pdf and eps
+  * dictionary: indicator_dictionary.csv
 
