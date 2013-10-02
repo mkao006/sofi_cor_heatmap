@@ -1,7 +1,7 @@
 State of Food Insecurity (SOFI) 2013 correlation heat map
 ========================================================================
 
-This is the code repository for creating the correlation heat map presented in SOFI 2013
+### This is the code repository for creating the correlation heat map presented in SOFI 2013
 ------------------------------------------------------------------------
 
 1. Input
